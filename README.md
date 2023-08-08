@@ -1,1 +1,1 @@
-# M.A.R.E
+# Mushroom Autocultivator Robotic EcoSystem M.A.R.E
